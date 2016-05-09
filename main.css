@@ -21,3 +21,6 @@ section,
 summary {
   display: block;
 }
+#content {
+  margin: 0 auto;
+}
